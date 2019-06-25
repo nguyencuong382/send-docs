@@ -41,6 +41,6 @@ marry marry@gmail.com
 ## Usage
 To send google doc file as a content to email
 ```
-python main.py <file_id>
+python main.py
 ```
 *Note: You may be login for fisrt time to get app code*
