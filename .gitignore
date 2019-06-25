@@ -1,0 +1,10 @@
+.env
+.vscode
+.tox
+export.html
+storage.json
+credentials.json
+client_id.json
+contacts.txt
+content.json
+__pycache__
